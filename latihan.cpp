@@ -7,7 +7,7 @@ int main(){
     string a;
 
     cin >> a;
-/**/
+/*halo nama aku yuki suou*/
 
     int cek =a.size();
 
